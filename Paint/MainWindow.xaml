@@ -54,7 +54,7 @@
                     </StackPanel>
                 </MenuItem.Header>
             </MenuItem> 
-            <MenuItem Name="Polygon" Click="ShapeItem_Click">
+            <MenuItem Name="Polygon" Click="ShapeItem_Click"> 
                 <MenuItem.Header>
                     <StackPanel  Width="25">
                         <Image Width="25" Height="20" Source="Images/Polygon.png" />
